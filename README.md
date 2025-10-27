@@ -1,4 +1,4 @@
-# Neumorphic Assignment (Next.js + Tailwind)
+# Lunacel Assignment (Next.js + Tailwind)
 
 ## 💡 Overview
 This project replicates the exact Figma UI with two right-hand widgets: "About Me" and "Gallery".
@@ -7,20 +7,20 @@ Built using **Next.js + Tailwind CSS**, it follows all provided assignment guide
 ## 🚀 Features
 - Dark neumorphic UI matching Figma screenshot.
 - Functional tabs ("About Me", "Experiences", "Recommended").
-- Gallery with "+ Add Image" button allowing new uploads.
-- Responsive (Laptop-first; above 768px).
+- Gallery with " Add Image" button allowing new uploads.
+- Responsive Web Page.
 
 ## 🧩 Tech Stack
-- Next.js 13
-- Tailwind CSS 3
-- React 18
+- Next.js 
+- Tailwind CSS 
+- React 
 
 ## 🧰 Setup Instructions
 
 1. Clone or unzip this repo:
    ```bash
    git clone <your_repo_url>
-   cd next-tailwind-neumorph
+   cd Lunacel_Internship_Assignment
    npm install
    npm run dev
    ```
@@ -43,4 +43,4 @@ Built using **Next.js + Tailwind CSS**, it follows all provided assignment guide
 Figma Prototype: [View Here](https://www.figma.com/proto/y2MKOgwm5YGVSc7AFGkN4Z/Assignment?node-id=1-102)
 
 ---
-Designed and developed with ❤️ by Ashish.
+Designed and developed by Ashish CHaudhary.
